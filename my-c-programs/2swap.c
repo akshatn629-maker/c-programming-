@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
   int a,b,c;
-printf("enter the 3 no.:\n");
-scanf("%d%d%d", &a,&b,&C);
+printf("enter the 2 no.:\n");
+scanf("%d%d", &a,&b);
 c=a;
 a=b;
 b=c;
