@@ -9,5 +9,9 @@ int main (){
     printf("total=%d\n", total);
     printf("percentage=%.2f%",percentage
     );
-    return 0;
-}
+    printf("enter the percentage:\n");
+
+    scanf("%f", &percentage);
+    (percentage>=40)?printf("pass"):printf("fail");
+        return 0;}
+        
