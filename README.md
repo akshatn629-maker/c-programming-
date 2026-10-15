@@ -1,8 +1,23 @@
-# c-programming-
-here is my beginning with github
+# C Programming
 
+I'm a BCA student learning C programming. This repo has my college C programs.
 
-# C Programs
-My C programs while learning (BCA Sem 1)
+## Programs
 
-- hello.c: first program
+- hello.c - My first program, Hello World
+- sumseven.c - Sum calculation program
+- sumeven.c - Even numbers program
+- totalandgrade.c - Calculates total marks and grade
+- grade system.c - Grade system
+
+## How to run
+
+gcc my-c-programs/sumeven.c -o sumeven.exe
+.\sumeven.exe
+
+## Tools
+
+- C language
+- GCC compiler
+- VS Code
+- Git & GitHub
